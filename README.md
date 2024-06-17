@@ -4,9 +4,9 @@
 This is an Android phone tutorial for seniors, bridging the digital divide together with them. Contributions are welcome.
 
 ## 👀 初衷（original intention）
-教长辈用手机并不是一件易事，长辈们学习使用手机则更为不易。或迫于我们陪伴他们的时间较少，又或因老人记忆力下降，一个使用说明应际而生。
+教长辈用手机并不是一件易事，长辈们学习使用手机则更为不易。或迫于我们陪伴他们的时间较少，又或因老人记忆力下降，一个使用说明应际而生。网上互联网上也有类似的使用说明，但质量参差不齐。终于就有了这个仓库，希望我们能做的比他们好一点吧。
 
-Teaching the elderly to use a mobile phone is not an easy task, and it is even more difficult for them to learn. Due to our limited time to accompany them or because of their declining memory, an instructional guide has come into being.
+Teaching the elderly to use a mobile phone is not an easy task, and it is even more difficult for them to learn. Due to our limited time to accompany them or because of their declining memory, an instructional guide has come into being.On the internet, there are various guides similar to this one, but their quality varies. Finally, we have this repository, hoping we can do a bit better than them.
 
 ## ✨ 特点（features）
 1.语言简练，通俗易懂。在尽量不占用查看者设备的情况下，用图文结合的形式展现细致的方法过程。教会老人使用智能手机(安卓)。（为照顾不识字的老人，后续可能会添加视频教程。）
