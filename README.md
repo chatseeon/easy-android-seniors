@@ -33,3 +33,7 @@ Teaching the elderly to use a mobile phone is not an easy task, and it is even m
 - [ ] 
 - [ ] 
 - [ ] 
+
+## 相关链接
+material项目地址：https://github.com/squidfunk/mkdocs-material
+图片转base64:https://8788.github.io/lab/tools/img2base64.html
