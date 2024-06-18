@@ -43,8 +43,8 @@ theme:
 plugins:
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - minify:
-      minify_html: true
+  # - minify:
+  #     minify_html: true
 
 # Markdown extensions
 markdown_extensions:
