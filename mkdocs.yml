@@ -1,0 +1,65 @@
+# Project information
+site_name: Easy-Android-Seniors  # 网站名称
+site_url: https://help.csworldlet.top  # 网站 URL（可选）
+site_author: Chatseeon  # 网站作者
+site_description: >-
+  A comprehensive guide to help seniors use Android smartphones  # 网站描述
+
+# Repository
+repo_name: chatseeon/easy-android-seniors  # 仓库名称（可选）
+repo_url: https://github.com/chatseeon/easy-android-seniors  # 仓库 URL（可选）
+
+# Copyright
+copyright: Copyright &copy; 2024 Chatseeon
+
+# Configuration
+theme:
+  name: material  # 使用 Material 主题
+  features:
+    - navigation.tabs
+    - search.highlight
+    - search.suggest
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+
+# Markdown extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+
+# Navigation structure
+nav:
+  - Home: index.md
+  - Tutorials:
+    - Getting Started: tutorials/getting-started.md
+    - Common Issues: tutorials/common-issues.md
+  - Advanced:
+    - Security Tips: advanced/security-tips.md
+    - Customization: advanced/customization.md
