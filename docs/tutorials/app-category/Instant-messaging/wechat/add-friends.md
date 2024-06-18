@@ -2,7 +2,7 @@
 
 Guide to using App 1 in Category 1.
 
-![图片](/docs/Image/Instant-messaging/wechat/add-friends)
+![图片](/docs/Image/Instant-messaging/wechat/add-friends/1-1.jpg)
 
 ![图片](https://raw.githubusercontent.com/chatseeon/easy-android-seniors/main/docs/Image/Instant-messaging/wechat/add-friends/1-1.jpg)
 
