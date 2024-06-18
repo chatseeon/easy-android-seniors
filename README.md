@@ -15,7 +15,7 @@ Teaching the elderly to use a mobile phone is not an easy task, and it is even m
 
 3.除普通软件教程外，本教程还将包含去广告教程及防诈骗提醒。
 
-4.本教程会尽可能地教会老人关于电子设备操作的底层逻辑，老人尝试技能迁移。
+4.本教程会尽可能地教会老人关于电子设备操作的底层逻辑，让老人尝试技能迁移。
 
 
 1.Concise and easy-to-understand language. Display detailed methods in a combination of text and visuals, while minimizing the use of the viewer's device. Teaching seniors how to use smartphones (Android).（To cater to illiterate elderly individuals, video tutorials may be added in the future.）
