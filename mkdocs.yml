@@ -1,9 +1,9 @@
 # Project information
-site_name: Easy-Android-Seniors  # 网站名称
+site_name: 携手跨过数字鸿沟，为老人写的一份使用指南 Easy-Android-Seniors  # 网站名称
 site_url: https://help.csworldlet.top  # 网站 URL（可选）
 site_author: Chatseeon  # 网站作者
 site_description: >-
-  A comprehensive guide to help seniors use Android smartphones  # 网站描述
+  一份指南，帮助老人学会使用安卓手机.A guide to help seniors use Android smartphones  # 网站描述
 
 # Repository
 repo_name: chatseeon/easy-android-seniors  # 仓库名称（可选）
@@ -56,9 +56,12 @@ markdown_extensions:
 
 # Navigation structure
 nav:
-  - Home: index.md
-  - Tutorials:
-    - Getting Started: tutorials/getting-started.md
+  - 首页(Home): index.md
+  - 教程(Tutorials):
+    - 软件分类(app-category):
+      - 聊天(chat):
+        - 微信(wechat):
+          - 如何加好友(How to add friends):add-friends.md
     - Common Issues: tutorials/common-issues.md
   - Advanced:
     - Security Tips: advanced/security-tips.md
