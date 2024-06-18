@@ -28,11 +28,8 @@ Teaching the elderly to use a mobile phone is not an easy task, and it is even m
 
 ## 🎉 待办（todo）
 
-- [√] 以Material为主题建立网站
-- [x] 完善内容
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+- [x] 以Material为主题建立网站
+- [ ] 完善教程内容
+- [ ] 
+- [ ] 
+- [ ] 
