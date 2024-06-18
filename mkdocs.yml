@@ -61,7 +61,7 @@ nav:
     - 软件分类(app-category):
       - 聊天(chat):
         - 微信(wechat):
-          - 如何加好友(How to add friends): add-friends.md
+          - 如何加好友(How to add friends): docs/tutorials/app-category/Instant-messaging/wechat/add-friends.md
     - Common Issues: tutorials/common-issues.md
   - Advanced:
     - Security Tips: advanced/security-tips.md
