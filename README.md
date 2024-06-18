@@ -4,7 +4,7 @@
 This is an Android phone tutorial for seniors, bridging the digital divide together with them. Contributions are welcome.
 
 ## 👀 初衷（original intention）
-教长辈用手机并不是一件易事，长辈们学习使用手机则更为不易。或迫于我们陪伴他们的时间较少，又或因老人记忆力下降，一个使用说明应际而生。网上互联网上也有类似的使用说明，但质量参差不齐。终于就有了这个仓库，希望我们能做的比他们好一点吧。
+教长辈用手机并不是一件易事，长辈们学习使用手机则更为不易。或迫于我们陪伴他们的时间较少，又或因老人记忆力下降，一个使用说明应际而生。互联网上也有类似的使用说明，但质量参差不齐。终于就有了这个仓库，希望我们能做的比他们好一点吧。
 
 Teaching the elderly to use a mobile phone is not an easy task, and it is even more difficult for them to learn. Due to our limited time to accompany them or because of their declining memory, an instructional guide has come into being.On the internet, there are various guides similar to this one, but their quality varies. Finally, we have this repository, hoping we can do a bit better than them.
 
@@ -28,8 +28,8 @@ Teaching the elderly to use a mobile phone is not an easy task, and it is even m
 
 ## 🎉 待办（todo）
 
-- [x] 
-- [x] 
+- [√] 以Material为主题建立网站
+- [x] 完善内容
 - [x] 
 - [x] 
 - [x] 
