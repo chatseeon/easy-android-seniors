@@ -14,11 +14,8 @@ copyright: Copyright &copy; 2024 Chatseeon
 
 # Configuration
 theme:
-  name: material  # 使用 Material 主题
-  features:
-    - navigation.tabs
-    - search.highlight
-    - search.suggest
+  name: material
+  custom_dir: overrides
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -29,11 +26,11 @@ theme:
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: indigo
+      primary: '#2BA245'
+      accent: '#2BA245'
       toggle:
         icon: material/toggle-switch-off
-       name: Switch to light mode
+        name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
