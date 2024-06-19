@@ -28,7 +28,7 @@ Teaching the elderly to use a mobile phone is not an easy task, and it is even m
 
 ## 🎉 待办（todo）
 
-- [x] 以Material为主题建立网站
+- [x] 以Material主题为基，建立网站
 - [x] 适当放大网站字体，便于老年人阅读
 - [ ] 完善教程内容
 - [ ] 提醒老人部分软件可以切换长辈模式
@@ -39,4 +39,3 @@ Teaching the elderly to use a mobile phone is not an easy task, and it is even m
 ## 相关链接
 material项目地址：https://github.com/squidfunk/mkdocs-material
 
-图片转base64:https://8788.github.io/lab/tools/img2base64.html
