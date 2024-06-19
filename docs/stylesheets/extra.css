@@ -1,25 +1,32 @@
-/* 更改菜单栏的背景颜色为RGB */
-.md-header-nav {
-    background-color: rgb(43, 162, 69);
+/* 自定义颜色变量 */
+:root {
+  --md-primary-fg-color: #2BA245;          /* 主色调前景色 */
+  --md-primary-fg-color--light: #B4D5B9;   /* 主色调前景色 - 亮色 */
+  --md-primary-fg-color--dark: #1C7D33;    /* 主色调前景色 - 暗色 */
 }
 
-/* 更改菜单项的字体颜色和字体大小 */
+/* 更改菜单栏的背景颜色为主色调 */
+.md-header-nav {
+  background-color: var(--md-primary-fg-color);
+}
+
+/* 更改菜单项的字体颜色为白色，并调整字体大小 */
 .md-header-nav__link {
-    color: white; /* 字体颜色为白色 */
-    font-size: 1.2rem; /* 可以根据需要调整大小 */
+  color: white; /* 字体颜色为白色 */
+  font-size: 1.2rem; /* 字体大小为 1.2rem，可以根据需要调整 */
 }
 
 /* 调整主内容的字体大小，便于阅读 */
 .md-typeset {
-    font-size: 1.1rem; /* 可以根据需要调整大小 */
+  font-size: 1.1rem; /* 字体大小为 1.1rem，可以根据需要调整 */
 }
 
 /* 确保在移动端上也能正常显示 */
 @media (max-width: 768px) {
-    .md-header-nav__link {
-        font-size: 1.1rem; /* 调整为适合移动端的字体大小 */
-    }
-    .md-typeset {
-        font-size: 1.2rem; /* 调整为适合移动端的字体大小 */
-    }
+  .md-header-nav__link {
+    font-size: 1.1rem; /* 调整为适合移动端的字体大小 */
+  }
+  .md-typeset {
+    font-size: 1.2rem; /* 调整为适合移动端的字体大小 */
+  }
 }
