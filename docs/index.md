@@ -1,3 +1,7 @@
-# Welcome to Easy-Android-Seniors
+# 欢迎，让我们携手跨过数字鸿沟！
 
-This site is a comprehensive guide to help seniors use Android smartphones.
+## 系统基础教程：
+
+## 常用软件教程：
+
+## 最近更新：
