@@ -1,15 +1,11 @@
-/* 更改菜单栏的背景颜色 */
-.md-header-nav {
+/* 更改白天模式下菜单栏的背景颜色 */
+.md-header-nav:not(.dark) {
     background-color: #2BA245;
 }
 
-/* 更改菜单项的字体颜色 */
+/* 更改菜单项的字体颜色和字体大小 */
 .md-header-nav__link {
     color: white;
-}
-
-/* 调整菜单项的字体大小 */
-.md-header-nav__link {
     font-size: 1.25rem; /* 可以根据需要调整大小 */
 }
 
