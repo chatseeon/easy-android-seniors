@@ -33,7 +33,9 @@ theme:
       accent: indigo
       toggle:
         icon: material/toggle-switch-off
-        name: Switch to light mode
+       name: Switch to light mode
+  extra_css:
+    - overrides/extra.css
   font:
     text: Roboto
     code: Roboto Mono
