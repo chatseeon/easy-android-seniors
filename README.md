@@ -30,7 +30,7 @@ Teaching the elderly to use a mobile phone is not an easy task, and it is even m
 
 - [x] 以Material为主题建立网站
 - [ ] 完善教程内容
-- [ ] 
+- [ ] 提醒老人部分软件可以切换长辈模式
 - [ ] 
 - [ ] 
 
