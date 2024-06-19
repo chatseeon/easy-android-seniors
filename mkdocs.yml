@@ -59,6 +59,8 @@ nav:
   - Advanced:
     - Security Tips: advanced/security-tips.md
     - Customization: advanced/customization.md
+  - 软件总页:
+    - 微信: part1/wechat.md
     
 # Extra CSS for custom styles
 extra_css:
