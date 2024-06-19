@@ -1,6 +1,6 @@
-/* 更改菜单栏的背景颜色 */
+/* 更改菜单栏的背景颜色为RGB */
 .md-header-nav {
-    background-color: #2BA245;
+    background-color: rgb(43, 162, 69);
 }
 
 /* 更改菜单项的字体颜色和字体大小 */
