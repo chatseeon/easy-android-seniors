@@ -1,21 +1,14 @@
-# Project information
-site_name: 跨过数字鸿沟 Easy-Android-Seniors  # 网站名称
-site_url: https://help.csworldlet.top  # 网站 URL（可选）
-site_author: Chatseeon  # 网站作者
-site_description: >-
-  一份指南，帮助老人学会使用安卓手机.A guide to help seniors use Android smartphones  # 网站描述
-
-# Repository
-repo_name: chatseeon/easy-android-seniors  # 仓库名称（可选）
-repo_url: https://github.com/chatseeon/easy-android-seniors  # 仓库 URL（可选）
-
 # Copyright
 copyright: Copyright &copy; 2024 Chatseeon
 
+
 # Configuration
 theme:
-  name: material
-  custom_dir: overrides
+  name: material  # 使用 Material 主题
+  features:
+    - navigation.tabs
+    - search.highlight
+    - search.suggest
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -26,15 +19,16 @@ theme:
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: '#2BA245'
-      accent: '#2BA245'
+      primary: black
+      accent: indigo
       toggle:
         icon: material/toggle-switch-off
-        name: Switch to light mode
+       name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon.png
+
 
 # Plugins
 plugins:
@@ -43,6 +37,7 @@ plugins:
   # - minify:
   #     minify_html: true
 
+
 # Markdown extensions
 markdown_extensions:
   - admonition
@@ -50,6 +45,7 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
+
 
 # Navigation structure
 nav:
@@ -63,7 +59,8 @@ nav:
   - Advanced:
     - Security Tips: advanced/security-tips.md
     - Customization: advanced/customization.md
-    
+
+
 # Extra CSS for custom styles
-extra_css:
-  - stylesheets/extra.css
+#extra_css:
+#- stylesheets/extra.css
