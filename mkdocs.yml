@@ -2,7 +2,7 @@ site_name: 跨过数字鸿沟 Easy-Android-Seniors  # 网站名称
 site_url: https://help.csworldlet.top  # 网站 URL（可选）
 site_author: Chatseeon  # 网站作者
 site_description: >-
-  一份指南，帮助老人学会使用安卓手机.A guide to help seniors use Android smartphones  # 网站描述
+  一份指南，帮助老人学会使用安卓手机.A guide to help seniors use Android smartphones。教老人用手机 # 网站描述
 # Repository
 repo_name: chatseeon/easy-android-seniors  # 仓库名称（可选）
 repo_url: https://github.com/chatseeon/easy-android-seniors  # 仓库 URL（可选）
