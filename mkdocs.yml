@@ -59,3 +59,7 @@ nav:
   - Advanced:
     - Security Tips: advanced/security-tips.md
     - Customization: advanced/customization.md
+    
+# Extra CSS for custom styles
+extra_css:
+  - stylesheets/extra.css
