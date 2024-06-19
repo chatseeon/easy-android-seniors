@@ -1,0 +1,29 @@
+/* 更改菜单栏的背景颜色 */
+.md-header-nav {
+    background-color: #2BA245;
+}
+
+/* 更改菜单项的字体颜色 */
+.md-header-nav__link {
+    color: white;
+}
+
+/* 调整菜单项的字体大小 */
+.md-header-nav__link {
+    font-size: 1.25rem; /* 可以根据需要调整大小 */
+}
+
+/* 调整主内容的字体大小，便于阅读 */
+.md-typeset {
+    font-size: 1.1rem; /* 可以根据需要调整大小 */
+}
+
+/* 确保在移动端上也能正常显示 */
+@media (max-width: 768px) {
+    .md-header-nav__link {
+        font-size: 1.1rem; /* 调整为适合移动端的字体大小 */
+    }
+    .md-typeset {
+        font-size: 1.2rem; /* 调整为适合移动端的字体大小 */
+    }
+}
