@@ -32,7 +32,7 @@ Teaching the elderly to use a mobile phone is not an easy task, and it is even m
 - [x] 适当放大网站字体，便于老年人阅读
 - [ ] 完善教程内容
 - [ ] 提醒老人部分软件可以切换长辈模式
-- [ ] 
+- [ ] 提醒老人不要占小便宜或者“大便宜”
 - [ ] 
 - [ ] 
 - [ ] 
