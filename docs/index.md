@@ -6,4 +6,3 @@
 [![WeChat Logo](./Image/index/icon64_wechat_logo.png)](https://help.csworldlet.top/part1/wechat/)
 
 ### 最近更新：
-[![WeChat Logo](./Image/90272631_p1_master1200.jpg)]
