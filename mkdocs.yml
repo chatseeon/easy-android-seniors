@@ -46,7 +46,12 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
   - markdown_include.include
-  - markdown.captions
+  - pymdownx.caret
+  - pymdownx.emoji
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist
   - admonition
   - codehilite
   - footnotes
