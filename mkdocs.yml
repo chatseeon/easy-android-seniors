@@ -59,12 +59,12 @@ markdown_extensions:
       permalink: true
 # Navigation structure
 nav:
-  - 首页(Home): index.md
-  - 教程(Tutorials):
-    - 软件分类(app-category):
-      - 聊天(chat):
-        - 微信(wechat):
-          - 如何加好友(How to add friends): tutorials/app-category/Instant-messaging/wechat/add-friends.md
+  - 首页: index.md
+  - 教程:
+    - 软件分类:
+      - 聊天软件:
+        - 微信:
+          - 如何加好友: tutorials/app-category/Instant-messaging/wechat/add-friends.md
     - Common Issues: tutorials/common-issues.md
   - Advanced:
     - Security Tips: advanced/security-tips.md
