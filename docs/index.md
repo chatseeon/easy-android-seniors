@@ -8,4 +8,4 @@
 ### 最近更新：
 
 ## 截图分享二维码，帮助更多人
-[![Logo](./Image/index/helpcsworldlet.png)]
+![Logo](./Image/index/helpcsworldlet.png)
