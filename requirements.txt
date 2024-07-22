@@ -21,4 +21,4 @@ mkdocs-glightbox
 # Additional plugins and extensions
 mkdocs-minify-plugin
 markdown-include
-markdown-captions
+
