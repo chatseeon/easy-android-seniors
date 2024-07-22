@@ -6,3 +6,6 @@
 [![WeChat Logo](./Image/index/icon64_wechat_logo.png)](https://help.csworldlet.top/part1/wechat/)
 
 ### 最近更新：
+
+## 截图分享二维码，帮助更多人
+[![Logo](./Image/index/helpcsworldlet.png)]
