@@ -39,10 +39,14 @@ plugins:
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - glightbox
-  # - minify:
-  #     minify_html: true
+  - minify:
+       minify_html: true
 # Markdown extensions
 markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - markdown.include
+  - markdown.captions
   - admonition
   - codehilite
   - footnotes
