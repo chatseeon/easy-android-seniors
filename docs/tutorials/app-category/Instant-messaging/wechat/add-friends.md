@@ -12,17 +12,17 @@
 ## 手机号搜索
 （本教程为了将好友管理统一在通讯录中进行，以减少记忆成本，故并不是最简步骤）
 
-### 第一步：打开微信，点击屏幕下方的 “通讯录” 
+#### 第一步：打开微信，点击屏幕下方的 “通讯录” 
 ![第一步](../../../../Image/Instant-messaging/wechat/add-friends/1.jpg)
-### 第二步：点击屏幕上方 “新的朋友”
+#### 第二步：点击屏幕上方 “新的朋友”
 ![第二步](../../../../Image/Instant-messaging/wechat/add-friends/1-2.jpg)
-### 第三步：点击搜索框<mark>输入朋友的手机号或者微信号<mark>
+#### 第三步：点击搜索框<mark>输入朋友的手机号或者微信号<mark>
 ![第三步](../../../../Image/Instant-messaging/wechat/add-friends/1-3.jpg)
-### 第四步：点击搜索框下方选项，搜索：xxxxxxxxxxxx
+#### 第四步：点击搜索框下方选项，搜索：xxxxxxxxxxxx
 ![第四步](../../../../Image/Instant-messaging/wechat/add-friends/1-4.jpg)
-### 第五步：点击第二行输入框，<mark>填入朋友的名字<mark>作为备注
+#### 第五步：点击第二行输入框，<mark>填入朋友的名字<mark>作为备注
 ![第五步](../../../../Image/Instant-messaging/wechat/add-friends/1-5.jpg)
-### 第六步：在手机屏幕底部，点击 “提交申请”，等待朋友同意即可。
+#### 第六步：在手机屏幕底部，点击 “提交申请”，等待朋友同意即可。
 ![第六步](../../../../Image/Instant-messaging/wechat/add-friends/1-6.jpg)
 
 ## 手机号搜索
