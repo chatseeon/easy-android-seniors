@@ -45,7 +45,7 @@ plugins:
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
-  - markdown.include
+  - markdown_include.include
   - markdown.captions
   - admonition
   - codehilite
