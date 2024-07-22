@@ -17,3 +17,8 @@ requests~=2.26
 
 # New plugin
 mkdocs-glightbox
+
+# Additional plugins and extensions
+mkdocs-minify-plugin
+markdown-include
+markdown-captions
