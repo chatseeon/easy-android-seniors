@@ -5,9 +5,7 @@
 ## 操作流程图
 ![思维导图s-wechat-Ⅰ](../../../../Image/Instant-messaging/wechat/add-friends/s-wechat-Ⅰ.jpg)
 
-
-## 详细教程
-> 致谢:本篇教程图源来自于**喜樂**授权
+> 致谢:本篇教程图由**喜樂**授权
 
 ## 二维码搜索
 ***
