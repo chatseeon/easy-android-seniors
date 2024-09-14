@@ -30,7 +30,7 @@
 
 
 
-![图片](../../../../Image/Instant-messaging/wechat/add-friends/1-1.jpg)
+![图片](../../../../Image/Instant-messaging/wechat/add-friends/b1-1.jpg)
 
 
 #### 注释 (面向贡献者，老人可跳过此段)
